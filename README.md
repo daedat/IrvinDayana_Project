@@ -1,6 +1,6 @@
 # Irvin_Dayana_Project
 
-## Chicago Data Portal
+## Chicago Data Portal - Transportation
 
 ## Technical Notebook
 
@@ -11,5 +11,6 @@
   ### Chicago Daily Weather v. Rideshare Company Trips
    #### Nov. 2018 - Sep. 2019 
    #### 1M Trips
+
 
 ## Presentation Deck
